@@ -149,7 +149,7 @@ Abra seu navegador e visite http://127.0.0.1:8001, veja mais em [Desenvolvimento
 
 ## 🤝 Contribuição [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Leia nosso [guia de contribução](https://ant.design/docs/react/contributing) e vamos contruir um melhor antd juntos.
+Leia nosso [guia de contribução](https://ant.design/docs/react/contributing) e vamos construir um melhor antd juntos.
 
 Nós saudamos todas as contribuições. Por favor, leia nosso [CONTRIBUTING.md](https://github.com/ant-design/ant-design/blob/master/.github/CONTRIBUTING.md) primeiro. Você pode submeter todas as ideias como [Pull Requests](https://github.com/ant-design/ant-design/pulls) ou como [GitHub issues](https://github.com/ant-design/ant-design/issues). Se você quiser melhorar o código, verifique [instruções ao desenvolvedor](https://github.com/ant-design/ant-design/wiki/Development) e divirta-se! :)
 
